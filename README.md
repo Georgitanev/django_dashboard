@@ -12,7 +12,7 @@
 # Django big chart - top 20 aquisition sources
 [![Browser chart pie](https://github.com/Georgitanev/django_dashboard/blob/main/Big_Analytics_top_grapchics.png)](https://github.com/Georgitanev/django_dashboard/blob/main/Big_Analytics_top_grapchics.png)
 
-# Browser pie - top 20 visitors brouwsers
+# Browser pie - top 20 visitors browsers
 [![Browser chart pie](https://github.com/Georgitanev/django_dashboard/blob/main/browser_pie.png)](https://github.com/Georgitanev/django_dashboard/blob/main/browser_pie.png)
 
 # Brief report
