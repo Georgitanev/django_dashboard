@@ -1,6 +1,12 @@
 # django_dashboard
 
+# Whole django web analytics page with graphics
+[![Django web analytics page](https://github.com/Georgitanev/django_dashboard/blob/main/whole_page.png)](https://github.com/Georgitanev/django_dashboard/blob/main/whole_page.png)
+
+
 # Django web analytics menu
+- optional menu - all links are pointing to the same page with graphics below:
+
 [![Django web analytics menu](https://github.com/Georgitanev/django_dashboard/blob/main/Big_Analytics.png)](https://github.com/Georgitanev/django_dashboard/blob/main/Big_Analytics.png)
 
 # Django big chart - top 20 aquisition sources
