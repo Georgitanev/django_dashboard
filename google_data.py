@@ -3,8 +3,9 @@
 from google.cloud import bigquery
 
 path = os.path.dirname(os.path.abspath(__file__))
-csv_path = os.path.join(
-    path, "data", "google_analytics_data.csv")
+
+csv_path = os.path.join(path, "sample_dashboard", "google_analytics",
+    "data", "google_analytics_data.csv")
 json_path = os.path.join(path, "key", "big-query-284408-e895d0eb5b23.json")
 
 
